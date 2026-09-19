@@ -24,7 +24,8 @@ Target dough temp after mix: **76–78°F** (calculate cooler mix water — don�
 1. Lodge pieces into cold oven; preheat hard (aim ≥45–60 min at bake temp after the oven is truly hot).
 2. Score cold: **box + T**.
 3. Covered steam first (e.g. 450°F), then uncover / drop to 425°F for color.
-4. Pull **205–210°F** internal. Cool **≥2 hours**. Weigh cooled loaf.
+   - **Lid-off color check at 10 min @ 425°F:** If crust is deep mahogany, foil tent or drop to 400°F. Color over clock.
+4. Pull **205–210°F** internal **or** preferred Carl.4 color if darker. Cool **≥2 hours**. Weigh cooled loaf.
 
 ## Bake 004 callouts
 

@@ -28,6 +28,7 @@ This repo is Carl's public chronicle: feed log, bake log, and playbooks. Obsidia
 | [002](bakes/002.md) | 2026-09-07 | 2026-09-08 | Better ear, fold timing refinement |
 | [003](bakes/003.md) | 2026-09-13 | 2026-09-14 | Temp control lesson |
 | [004](bakes/004.md) | 2026-09-15 | 2026-09-16 | Zero folds, volume-based bulk |
+| [005](bakes/005.md) | 2026-09-18 | *in progress* | Verification bake — cooler water |
 
 ## Baseline boule (locked)
 

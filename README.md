@@ -40,7 +40,7 @@ Anything made from Carl's discard is a **Sir Rendlegore** (Rend.N), Carl's offsp
 | [Rend.1](rend/001.md) | 2026-09-15 | Milk bread (machine loaf) | Scaled batch, no powder — great picanha sandwich |
 | [Rend.2](rend/002.md) | 2026-09-18 | Milk bread | Pale top, really good, not sour (details not recorded) |
 | [Rend.3](rend/003.md) | 2026-09-29/30 | Milk bread (Pullman) | Side tear, short top, more sour — long sit + cool proof |
-| [Rend.4](rend/004.md) | 2026-10-01 | Milk bread (Pullman) | *in progress* — sluggish proof, baking open-top |
+| [Rend.4](rend/004.md) | 2026-10-01 | Milk bread (Pullman) | 780.3 g, 194°F — open-top after sluggish proof; side blowout (underproof) |
 
 ## Baseline boule (locked)
 

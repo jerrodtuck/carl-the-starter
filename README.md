@@ -18,6 +18,7 @@ This repo is Carl's public chronicle: feed log, bake log, and playbooks. Obsidia
 | [`bakes/`](bakes/) | One file per loaf (Carl.001 …) — see index below |
 | [`playbooks/`](playbooks/) | Day-of timelines (boule, milk bread, …) |
 | [`photos/`](photos/) | Crust and crumb shots |
+| [`rend/`](rend/) | Sir Rendlegore — anything made from Carl's discard (Rend.1 …) |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | Branch workflow for new cooks |
 
 ## Bakes
@@ -29,6 +30,17 @@ This repo is Carl's public chronicle: feed log, bake log, and playbooks. Obsidia
 | [003](bakes/003.md) | 2026-09-13 | 2026-09-14 | Temp control lesson |
 | [004](bakes/004.md) | 2026-09-15 | 2026-09-16 | Zero folds, volume-based bulk |
 | [005](bakes/005.md) | 2026-09-18 | *in progress* | Verification bake — cooler water |
+
+## Sir Rendlegore (discard bakes)
+
+Anything made from Carl's discard is a **Sir Rendlegore** (Rend.N), Carl's offspring, named after Carl's regenerating Tummy Acher in *Dungeon Crawler Carl*: milk bread, Dutch pancakes, crackers, etc. Numbered separately from the boule bakes. Recipe: [`playbooks/sourdough-milk-bread.md`](playbooks/sourdough-milk-bread.md).
+
+| # | Baked | Made | Notes |
+|---|-------|------|-------|
+| [Rend.1](rend/001.md) | 2026-09-15 | Milk bread (machine loaf) | Scaled batch, no powder — great picanha sandwich |
+| [Rend.2](rend/002.md) | 2026-09-18 | Milk bread | Pale top, really good, not sour (details not recorded) |
+| [Rend.3](rend/003.md) | 2026-09-29/30 | Milk bread (Pullman) | Side tear, short top, more sour — long sit + cool proof |
+| [Rend.4](rend/004.md) | 2026-10-01 | Milk bread (Pullman) | *in progress* — sluggish proof, baking open-top |
 
 ## Baseline boule (locked)
 

@@ -30,6 +30,8 @@ This repo is Carl's public chronicle: feed log, bake log, and playbooks. Obsidia
 | [004](bakes/004.md) | 2026-09-15 | 2026-09-16 | Zero folds, volume-based bulk |
 | [005](bakes/005.md) | 2026-09-18 | *in progress* | Verification bake — cooler water |
 | [007](bakes/007.md) | 2026-09-30 | 2026-10-01 | 808.8 g, heaviest yet — even, sandwich-friendly crumb; ties Carl.4 for best |
+| [005](bakes/005.md) | 2026-09-18 | 2026-09-19 | Verification bake — cooler water |
+| [006](bakes/006.md) | 2026-09-29 | 2026-09-30 | Salt-early + over-bulk rescue — lighter, softer crust |
 
 ## Baseline boule (locked)
 

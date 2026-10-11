@@ -44,7 +44,8 @@ Anything made from Carl's discard is a **Sir Rendlegore** (Rend.N), Carl's offsp
 | [Rend.2](rend/002.md) | 2026-09-18 | Milk bread | Pale top, really good, not sour (details not recorded) |
 | [Rend.3](rend/003.md) | 2026-09-29/30 | Milk bread (Pullman) | Side tear, short top, more sour — long sit + cool proof |
 | [Rend.4](rend/004.md) | 2026-10-01 | Milk bread (Pullman) | 780.3 g, 194°F — open-top after sluggish proof; side blowout (underproof) |
-| [Rend.6](rend/006.md) | 2026-10-11 | Milk bread (Pullman) + wheat germ | 4-piece Japanese-style shaping (Martin / King Arthur), proofer 80°F — *in progress* |
+| [Rend.5](rend/005.md) | 2026-10-11 | Crackers (olive oil + herb) | Thin = crispy, thick = soft — soft wins; roll ~1/8 in, pull pale golden |
+| [Rend.6](rend/006.md) | 2026-10-11 | Milk bread (Pullman, 4-piece) | ✅ Done — wheat germ, 4-piece shaping, longer proof to ~1 in: no blowout; soft, even sandwich crumb |
 
 ## Baseline boule (locked)
 

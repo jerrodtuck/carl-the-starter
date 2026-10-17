@@ -33,6 +33,7 @@ This repo is Carl's public chronicle: feed log, bake log, and playbooks. Obsidia
 | [007](bakes/007.md) | 2026-09-30 | 2026-10-01 | 808.8 g, heaviest yet — even, sandwich-friendly crumb; ties Carl.4 for best |
 | [005](bakes/005.md) | 2026-09-18 | 2026-09-19 | Verification bake — cooler water |
 | [006](bakes/006.md) | 2026-09-29 | 2026-09-30 | Salt-early + over-bulk rescue — lighter, softer crust |
+| [008](bakes/008.md) | 2026-10-09 | 2026-10-10 | GA — first 90/10 AP/rye Carl; 815.8 g, heaviest yet — huge spring; a banger |
 
 ## Sir Rendlegore (discard bakes)
 

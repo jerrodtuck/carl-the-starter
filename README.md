@@ -33,6 +33,7 @@ This repo is Carl's public chronicle: feed log, bake log, and playbooks. Obsidia
 | [007](bakes/007.md) | 2026-09-30 | 2026-10-01 | 808.8 g, heaviest yet — even, sandwich-friendly crumb; ties Carl.4 for best |
 | [005](bakes/005.md) | 2026-09-18 | 2026-09-19 | Verification bake — cooler water |
 | [006](bakes/006.md) | 2026-09-29 | 2026-09-30 | Salt-early + over-bulk rescue — lighter, softer crust |
+| [009](bakes/009.md) | 2026-10-28 | 2026-10-28 | Over-proofed (work emergency) → same-night focaccia; airy crumb, stuck to pan |
 
 ## Sir Rendlegore (discard bakes)
 
